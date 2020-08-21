@@ -4,3 +4,18 @@
   <p>https://arxiv.org/abs/1508.06576</p>
 <h1><strong>What actually do we do ????</strong></h1>
 ![](styletransfer.gif)
+<h1><strong>Implementation</strong></h1>
+<h2><strong>Model Architecture : VGG19(Pre-trained)</strong></h1>
+<img src="model-vgg19/vgg19_convlayers.png">
+<h2><strong>Loss Functions</strong></h1>
+<img src="loss_function.jpg">
+<h4><strong>Gram Matrix </strong></h1>
+<img src="gram_matrix.jpg">
+<h1><strong>Results</strong></h1>
+<h2><strong>Content Image</strong></h1>
+<img src="content/content6.jpg">
+<h2><strong>Style Image:</strong></h1>
+<img src="styles/style4.jpg">
+<h2><strong>Reconstructed Image: </strong></h2>
+<img src="reconstructed/reconstructed1.png">
+
